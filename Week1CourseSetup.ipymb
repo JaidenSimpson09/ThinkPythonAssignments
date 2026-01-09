@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyM6e7DcnhJIIS7t8mD1c3q3",
+      "authorship_tag": "ABX9TyOU5csOUQ7pOQbykgDVNGSK",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,17 +23,19 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/JaidenSimpson09/ThinkPythonAssignments/blob/main/Week1CourseSetup.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/JaidenSimpson09/ThinkPythonAssignments/blob/main/Week1CourseSetup.ipymb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "8-5XQ4VtjHrw"
+        "id": "GaFsFs36ibFm"
       },
       "outputs": [],
-      "source": []
+      "source": [
+        "#this is my first python comment"
+      ]
     }
   ]
 }
